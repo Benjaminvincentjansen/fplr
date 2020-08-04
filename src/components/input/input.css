@@ -1,0 +1,121 @@
+.firstinput {
+	margin: 0 auto;
+	background-color: white;
+	width: 250px;
+	text-align: left;
+}
+
+
+.country {
+
+  position: relative;
+  font-family: noto sans,sans-serif;;
+}
+
+label {
+	font-size: 1em;
+    cursor: default;
+    text-align: left;
+    font-weight: bold;
+}
+.alertbox {
+	background-color: #c17b74;
+	width: 600px;
+	margin: 1em auto;
+	padding: 5px 5px;
+
+}
+
+/* Point the arrow upwards when the select box is open (active): */
+.selects {
+-webkit-writing-mode: horizontal-tb !important;
+    text-rendering: auto;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    height: 50px;
+    width: 250px;
+    font-size: 20px;
+    padding-left: 10px;
+    margin-top: 5px;
+    cursor:pointer;
+	border-width: 1px;
+	border-color: black;
+}
+
+.country:after {
+  content: '>';
+  font: 35px "Consolas", monospace;
+  color: #21a0a0;
+  -webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  transform: rotate(90deg);
+  right: 12px;
+  /*Adjust for position however you want*/
+  font-weight: bold;
+  top: 10px;
+  position: absolute;
+  pointer-events: none;
+}
+
+.country select {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  /* Add some styling */
+  }
+
+  .searchinput {
+  	width: 250px;
+  	margin: 0 auto;
+  	text-align: left;
+  	position: relative;
+  }
+
+  .searchs {
+-webkit-writing-mode: horizontal-tb !important;
+    text-rendering: auto;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    height: 50px;
+    width: 235px;
+    border-width: 1px;
+    border-color: black;
+    font-size: 20px;
+    margin-top: 5px;
+    cursor:pointer;
+    background: url(https://freeiconshop.com/wp-content/uploads/edd/search-solid.png) no-repeat scroll 205px 10px;
+    background-size: 30px;
+    padding-left: 10px;
+  }
+
+.selects2 {
+-webkit-writing-mode: horizontal-tb !important;
+    text-rendering: auto;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    height: 50px;
+    width: 250px;
+    font-size: 20px;
+    padding-left: 10px;
+    margin-top: 5px;
+    cursor:pointer;
+	border-width: 1px;
+	border-color: black;
+}
+
+.big {
+	font-size: 20px;
+}

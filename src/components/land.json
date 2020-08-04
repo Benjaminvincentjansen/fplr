@@ -1,0 +1,473 @@
+[
+{
+    "countryname": "South Georgia and the South Sandwich Islands",
+    "country": "199"
+},{
+    "countryname": "England",
+    "country": "241"
+},{
+    "countryname": "Bulgaria",
+    "country": "34"
+},{
+    "countryname": "Norway",
+    "country": "161"
+},{
+    "countryname": "Ireland",
+    "country": "104"
+},{
+    "countryname": "Bosnia-Herzegovina",
+    "country": "27"
+},{
+    "countryname": "Aland Islands",
+    "country": "267"
+},{
+    "countryname": "Nigeria",
+    "country": "157"
+},{
+    "countryname": "Lebanon",
+    "country": "119"
+},{
+    "countryname": "Scotland",
+    "country": "243"
+},{
+    "countryname": "Denmark",
+    "country": "58"
+},{
+    "countryname": "Slovenia",
+    "country": "195"
+},{
+    "countryname": "Egypt",
+    "country": "63"
+},{
+    "countryname": "Singapore",
+    "country": "193"
+},{
+    "countryname": "Sweden",
+    "country": "206"
+},{
+    "countryname": "India",
+    "country": "100"
+},{
+    "countryname": "Tuvalu",
+    "country": "222"
+},{
+    "countryname": "Finland",
+    "country": "72"
+},{
+    "countryname": "Faeroe Islands",
+    "country": "69"
+},{
+    "countryname": "South Africa",
+    "country": "198"
+},{
+    "countryname": "Australia",
+    "country": "13"
+},{
+    "countryname": "Kuwait",
+    "country": "115"
+},{
+    "countryname": "Cambodia",
+    "country": "37"
+},{
+    "countryname": "Poland",
+    "country": "172"
+},{
+    "countryname": "Tunisia",
+    "country": "218"
+},{
+    "countryname": "Jamaica",
+    "country": "107"
+},{
+    "countryname": "Belgium",
+    "country": "21"
+},{
+    "countryname": "Malaysia",
+    "country": "130"
+},{
+    "countryname": "Switzerland",
+    "country": "207"
+},{
+    "countryname": "Portugal",
+    "country": "173"
+},{
+    "countryname": "Palau",
+    "country": "164"
+},{
+    "countryname": "Netherlands",
+    "country": "152"
+},{
+    "countryname": "Bangladesh",
+    "country": "18"
+},{
+    "countryname": "Qatar",
+    "country": "175"
+},{
+    "countryname": "New Zealand",
+    "country": "154"
+},{
+    "countryname": "Thailand",
+    "country": "212"
+},{
+    "countryname": "Taiwan",
+    "country": "209"
+},{
+    "countryname": "Nauru",
+    "country": "149"
+},{
+    "countryname": "France",
+    "country": "73"
+},{
+    "countryname": "USA",
+    "country": "229"
+},{
+    "countryname": "Libya",
+    "country": "122"
+},{
+    "countryname": "Wales",
+    "country": "244"
+},{
+    "countryname": "Iraq",
+    "country": "103"
+},{
+    "countryname": "Serbia",
+    "country": "190"
+},{
+    "countryname": "Canada",
+    "country": "39"
+},{
+    "countryname": "Indonesia",
+    "country": "101"
+},{
+    "countryname": "Guernsey",
+    "country": "271"
+},{
+    "countryname": "Slovakia",
+    "country": "194"
+},{
+    "countryname": "Northern Ireland",
+    "country": "242"
+},{
+    "countryname": "Hong Kong",
+    "country": "96"
+},{
+    "countryname": "Cameroon",
+    "country": "38"
+},{
+    "countryname": "Namibia",
+    "country": "148"
+},{
+    "countryname": "Spain",
+    "country": "200"
+},{
+    "countryname": "Trinidad and Tobago",
+    "country": "217"
+},{
+    "countryname": "Peru",
+    "country": "169"
+},{
+    "countryname": "Svalbard & Jan Mayen Islands",
+    "country": "204"
+},{
+    "countryname": "Christmas Island",
+    "country": "46"
+},{
+    "countryname": "Japan",
+    "country": "108"
+},{
+    "countryname": "Niue",
+    "country": "158"
+},{
+    "countryname": "Palestine",
+    "country": "165"
+},{
+    "countryname": "United Arab Emirates",
+    "country": "226"
+},{
+    "countryname": "Lithuania",
+    "country": "124"
+},{
+    "countryname": "Iceland",
+    "country": "99"
+},{
+    "countryname": "Malta",
+    "country": "133"
+},{
+    "countryname": "Morocco",
+    "country": "145"
+},{
+    "countryname": "Saudi Arabia",
+    "country": "188"
+},{
+    "countryname": "Israel",
+    "country": "105"
+},{
+    "countryname": "China",
+    "country": "45"
+},{
+    "countryname": "Ukraine",
+    "country": "225"
+},{
+    "countryname": "Vietnam",
+    "country": "234"
+},{
+    "countryname": "Tanzania",
+    "country": "211"
+},{
+    "countryname": "Hungary",
+    "country": "98"
+},{
+    "countryname": "Myanmar",
+    "country": "147"
+},{
+    "countryname": "Gibraltar",
+    "country": "82"
+},{
+    "countryname": "Croatia",
+    "country": "97"
+},{
+    "countryname": "Macedonia",
+    "country": "127"
+},{
+    "countryname": "Sao Tome and Principe",
+    "country": "187"
+},{
+    "countryname": "Zimbabwe",
+    "country": "239"
+},{
+    "countryname": "Antarctica",
+    "country": "8"
+},{
+    "countryname": "Barbados",
+    "country": "19"
+},{
+    "countryname": "Germany",
+    "country": "80"
+},{
+    "countryname": "Brazil",
+    "country": "30"
+},{
+    "countryname": "Vanuatu",
+    "country": "232"
+},{
+    "countryname": "South Korea",
+    "country": "114"
+},{
+    "countryname": "Russia",
+    "country": "178"
+},{
+    "countryname": "Cyprus",
+    "country": "56"
+},{
+    "countryname": "Turkey",
+    "country": "219"
+},{
+    "countryname": "Kazakhstan",
+    "country": "110"
+},{
+    "countryname": "Austria",
+    "country": "14"
+},{
+    "countryname": "St. Lucia",
+    "country": "182"
+},{
+    "countryname": "Maldives",
+    "country": "131"
+},{
+    "countryname": "Jordan",
+    "country": "109"
+},{
+    "countryname": "Ghana",
+    "country": "81"
+},{
+    "countryname": "Bahrain",
+    "country": "17"
+},{
+    "countryname": "Zambia",
+    "country": "238"
+},{
+    "countryname": "Pakistan",
+    "country": "163"
+},{
+    "countryname": "Iran",
+    "country": "102"
+},{
+    "countryname": "Nepal",
+    "country": "150"
+},{
+    "countryname": "Kenya",
+    "country": "111"
+},{
+    "countryname": "Greece",
+    "country": "83"
+},{
+    "countryname": "Syria",
+    "country": "208"
+},{
+    "countryname": "Estonia",
+    "country": "67"
+},{
+    "countryname": "Bermuda",
+    "country": "24"
+},{
+    "countryname": "Sri Lanka",
+    "country": "201"
+},{
+    "countryname": "Czech Republic",
+    "country": "57"
+},{
+    "countryname": "Holy See",
+    "country": "94"
+},{
+    "countryname": "Andorra",
+    "country": "5"
+},{
+    "countryname": "Swaziland",
+    "country": "205"
+},{
+    "countryname": "Oman",
+    "country": "162"
+},{
+    "countryname": "Algeria",
+    "country": "3"
+},{
+    "countryname": "Georgia",
+    "country": "79"
+},{
+    "countryname": "Chile",
+    "country": "44"
+},{
+    "countryname": "Bhutan",
+    "country": "25"
+},{
+    "countryname": "Jersey",
+    "country": "275"
+},{
+    "countryname": "Sudan",
+    "country": "202"
+},{
+    "countryname": "Philippines",
+    "country": "170"
+},{
+    "countryname": "Latvia",
+    "country": "118"
+},{
+    "countryname": "Antigua and Barbuda",
+    "country": "9"
+},{
+    "countryname": "Wallis and Futuna Islands",
+    "country": "235"
+},{
+    "countryname": "Isle of Man",
+    "country": "273"
+},{
+    "countryname": "Macao",
+    "country": "126"
+},{
+    "countryname": "Equatorial Guinea",
+    "country": "65"
+},{
+    "countryname": "Romania",
+    "country": "177"
+},{
+    "countryname": "Mexico",
+    "country": "139"
+},{
+    "countryname": "Uganda",
+    "country": "224"
+},{
+    "countryname": "Central African Republic",
+    "country": "42"
+},{
+    "countryname": "Belarus",
+    "country": "20"
+},{
+    "countryname": "Luxembourg",
+    "country": "125"
+},{
+    "countryname": "Eritrea",
+    "country": "66"
+},{
+    "countryname": "Guinea",
+    "country": "89"
+},{
+    "countryname": "Costa Rica",
+    "country": "53"
+},{
+    "countryname": "North Korea",
+    "country": "113"
+},{
+    "countryname": "Kosovo",
+    "country": "286"
+},{
+    "countryname": "Honduras",
+    "country": "95"
+},{
+    "countryname": "Mauritius",
+    "country": "137"
+},{
+    "countryname": "Micronesia",
+    "country": "140"
+},{
+    "countryname": "Laos",
+    "country": "117"
+},{
+    "countryname": "Albania",
+    "country": "2"
+},{
+    "countryname": "Venezuela",
+    "country": "233"
+},{
+    "countryname": "Montenegro",
+    "country": "240"
+},{
+    "countryname": "Brunei Darussalam",
+    "country": "33"
+},{
+    "countryname": "Rwanda",
+    "country": "179"
+},{
+    "countryname": "Seychelles",
+    "country": "191"
+},{
+    "countryname": "Botswana",
+    "country": "28"
+},{
+    "countryname": "Uzbekistan",
+    "country": "231"
+},{
+    "countryname": "St. Vincent and the Grenadines",
+    "country": "184"
+},{
+    "countryname": "Armenia",
+    "country": "11"
+},{
+    "countryname": "Ecuador",
+    "country": "62"
+},{
+    "countryname": "Uruguay",
+    "country": "230"
+},{
+    "countryname": "Turkmenistan",
+    "country": "220"
+},{
+    "countryname": "El Salvador",
+    "country": "64"
+},{
+    "countryname": "Northern Mariana Islands",
+    "country": "160"
+},{
+    "countryname": "United States Minor Outlying Islands",
+    "country": "228"
+},{
+    "countryname": "Ethiopia",
+    "country": "68"
+},{
+    "countryname": "Italy",
+    "country": "106"
+},{
+    "countryname": "Lesotho",
+    "country": "120"
+},{
+    "countryname": "Pitcairn Island",
+    "country": "171"
+} ]

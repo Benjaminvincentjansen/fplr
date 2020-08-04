@@ -1,0 +1,62 @@
+body {
+    font-family: noto sans,sans-serif;
+}
+
+.App {
+  text-align: center;
+}
+
+.Header {
+  display: flex;
+  height: 10em;  
+  display: inline-block;
+  width: 100%;
+}
+
+.top {
+	width: 100%;
+	height: 5em;
+	display: flex;
+	border-bottom:1px solid #ddd;
+
+}
+
+.middle {
+	width: 40em;
+	height: 5em;
+	display: flex;
+	margin: 0 auto;
+}
+
+.logo {
+	width: 15em;
+	height: 4.2em;
+	text-align: left;
+	padding-top: 0.8em;
+}
+
+.logo a {
+	font-size: 3em;
+	font-weight: bold;
+	text-decoration: none;
+	color: #1fa0a0;
+
+}
+
+.nav {
+	height: 3.1em;
+	width: 25em;
+	text-align: left;
+	padding-top: 1.9em;
+}
+
+.nav a {
+	font-size: 1em;
+	margin-left: 2em;
+	text-decoration: none;
+	color: black;
+}
+
+.nav a:hover {
+	color: grey;
+}

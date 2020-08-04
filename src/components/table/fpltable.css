@@ -1,0 +1,234 @@
+body {
+    font-family: noto sans,sans-serif;
+}
+
+table {
+	margin: 0 auto;
+	text-align: left;
+        border-collapse: collapse;
+    border:1px solid #ddd
+
+}
+
+.fpltable table tr th {
+	border-width: 1px;
+	border-color: black;
+	background-color: red;
+	margin: 0px;
+}
+
+td {
+    width: 6em;
+    margin: 0;
+    padding: 0 0 0 0;
+    border-collapse: collapse;
+    border:1px solid #ddd;
+    text-align: right;
+    height: 3em;
+
+}
+
+th {
+    height: 3em;
+    padding: 5px;
+    border:1px solid #ddd;
+    cursor: pointer;
+
+}
+
+.number {
+    padding: 5px;
+    width: 1em;
+    text-align: center;
+    color: grey;
+}
+
+.avg {
+    background-color: #D0EFB1;
+    padding: 5px;
+    width: 4em;
+}
+
+.extra {
+    padding: 5px;
+    width: 2em;
+}
+
+.idcss {
+    padding: 5px;
+    text-align: left;
+
+}
+
+.idcss a {
+       font-weight: bold;
+    text-decoration: underline;
+    color: #337ab7; 
+}
+
+.name {
+    padding: 5px;
+    width: 7em;
+    text-align: left;
+}
+
+.introbox {
+    background-color: white;
+    width: 40em;
+    margin: 3em auto;
+    text-align: left;
+}
+.intro {
+    font-size: 2em;
+    color: black;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-weight: bold;
+    font-family: noto sans,sans-serif;
+}
+
+.infobox {
+    text-align: left;
+    background-color: white;
+    margin: 0;
+    padding-top:1em;
+    font-size: 1em;
+}
+
+.infobox a {
+    padding: 0p;
+}
+
+label {
+	font-size: 1em;
+    cursor: default;
+    text-align: left;
+    font-weight: bold;
+}
+
+  .searchs {
+-webkit-writing-mode: horizontal-tb !important;
+    text-rendering: auto;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    height: 50px;
+    width: 235px;
+    border-width: 1px;
+    border-color: black;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    cursor:pointer;
+    background: url('../search-icon.png') no-repeat scroll 205px 10px;
+    background-size: 30px;
+    padding-left: 10px;
+  }
+
+  .firstinput {
+    margin: 0 auto;
+    background-color: white;
+    width: 250px;
+    text-align: left;
+}
+
+
+.country {
+
+  position: relative;
+  font-family: noto sans,sans-serif;;
+}
+
+label {
+    font-size: 1em;
+    cursor: default;
+    text-align: left;
+    font-weight: bold;
+}
+.alertbox {
+    background-color: #c17b74;
+    width: 600px;
+    margin: 1em auto;
+    padding: 5px 5px;
+
+}
+
+/* Point the arrow upwards when the select box is open (active): */
+.selects {
+-webkit-writing-mode: horizontal-tb !important;
+    text-rendering: auto;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    height: 50px;
+    width: 250px;
+    font-size: 20px;
+    padding-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    cursor:pointer;
+    border-width: 1px;
+    border-color: black;
+}
+
+.country:after {
+  content: '>';
+  font: 35px "Consolas", monospace;
+  color: #21a0a0;
+  -webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  transform: rotate(90deg);
+  right: 12px;
+  /*Adjust for position however you want*/
+  font-weight: bold;
+  top: 10px;
+  position: absolute;
+  pointer-events: none;
+}
+
+.country select {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  /* Add some styling */
+  }
+
+  .searchinput {
+    width: 250px;
+    margin: 0 auto;
+    text-align: left;
+    position: relative;
+  }
+
+.selects2 {
+-webkit-writing-mode: horizontal-tb !important;
+    text-rendering: auto;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    height: 50px;
+    width: 250px;
+    font-size: 20px;
+    padding-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    cursor:pointer;
+    border-width: 1px;
+    border-color: black;
+}
+
+.big {
+    font-size: 20px;
+    margin-bottom: 10px;
+    display: inline-block;
+}
